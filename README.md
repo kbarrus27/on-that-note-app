@@ -22,3 +22,11 @@ Katy Barrus, a senior at South Kingstown High School, built this with help from 
 Keep checking this GitHub page! [github.com/kbarrus27/on-that-note-app](https://github.com/kbarrus27/on-that-note-app)
 
 Please note that the app is Android-only at the moment.
+
+### Credits ###
+This project is possible because of the following contributions:
+- The treble clef icon in the app's logo is musical score (c) by OpenMoji. musical score is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
+- The splash screen code and design are based on a tutorial by Krishna Raghavendran, accessible [here](https://www.youtube.com/watch?v=7zJPKgvlV40).
+- All other components were either in the public domain (colorful notes, egg shaker, hand, and running and walking icons) or created by me (PECS-style buttons).
+- A HUGE thank you to Jeongyeon Hwang, my siblings, and everyone who helped design and test the app along the way!
