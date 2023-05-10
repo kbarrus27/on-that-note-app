@@ -16,7 +16,7 @@ Kids can select an instrument (currently only piano) and then “song” or “f
 - Kids enjoy using it!
 
 ### Who built this app? ### 
-Katy Barrus, a senior at South Kingstown High School, built this with help from Jeongyeon Hwang, a music therapist at Hands in Harmony in Kingston, RI.
+Katy Barrus, a senior at South Kingstown High School, built this with help from Jeongyeon Hwang, a music therapist at [Hands in Harmony](hihri.org) in Kingston, RI.
 
 ### How can I follow this project? ### 
 Keep checking this GitHub page! [github.com/kbarrus27/on-that-note-app](github.com/kbarrus27/on-that-note-app)
