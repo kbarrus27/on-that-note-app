@@ -1,4 +1,5 @@
 # On That Note
+Last updated 5/17/23 (app version 0.9.0)
 
 ### What is it? ### 
 On That Note is an app designed to build fine motor skills in children ages 2-7 years old.
@@ -28,5 +29,6 @@ This project is possible because of the following contributions:
 - The treble clef icon in the app's logo is musical score (c) by OpenMoji. musical score is licensed under a
 [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 - The splash screen code and design are based on a tutorial by Krishna Raghavendran, accessible [here](https://www.youtube.com/watch?v=7zJPKgvlV40).
+- The piano portion was inspired by the MyPiano tutorial by MIT App Inventor.
 - All other components were either in the public domain (colorful notes, egg shaker, hand, and running and walking icons) or created by me (PECS-style buttons).
 - A HUGE thank you to Jeongyeon Hwang, my siblings, and everyone who helped design and test the app along the way!
