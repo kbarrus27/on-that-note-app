@@ -7,7 +7,7 @@ On That Note is an app designed to build fine motor skills in children ages 2-7 
 ### How does it work? ###
 Kids can select an instrument (currently only piano) and then “song” or “free play” mode.
 - In “song” mode, some parts of a song are played by the app and other parts are played by the user. This helps to build waiting skills as well as fine motor skills.
-- In “free play” mode (coming soon!), the user can play the instrument on their own.
+- In “free play” mode, the user can play the instrument on their own.
 
 ### What are the potential benefits of this app? ### 
 - Allows kids to practice fine motor skills like tapping and lifting fingers (piano) and swiping (shaker)
