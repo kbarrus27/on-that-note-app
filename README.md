@@ -1,5 +1,5 @@
 # On That Note
-Last updated 5/17/23 (app version 0.9.0)
+Last updated 5/24/23 (app version 0.9.0)
 
 ### What is it? ### 
 On That Note is an app designed to build fine motor skills in children ages 2-7 years old.
@@ -20,7 +20,7 @@ Kids can select an instrument (currently only piano) and then “song” or “f
 Katy Barrus, a senior at South Kingstown High School, built this with help from Jeongyeon Hwang, a music therapist at [Hands in Harmony](https://hihri.org) in Kingston, RI.
 
 ### How can I follow this project? ### 
-Keep checking this GitHub page! [github.com/kbarrus27/on-that-note-app](https://github.com/kbarrus27/on-that-note-app)
+Keep checking [the app's website](https://onthatnoteapp.weebly.com) and this GitHub page! [github.com/kbarrus27/on-that-note-app](https://github.com/kbarrus27/on-that-note-app)
 
 Please note that the app is Android-only at the moment.
 
